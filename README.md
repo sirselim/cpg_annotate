@@ -3,6 +3,8 @@ A small R script to provide quick annotation and gene lists for series of IlmnID
 
 ## example usage
 
+Either clone or download this repository, ensure the `Ilmn450K_anno.RDS` file is in the same directory as the R script (`cpg_annotate.R`).
+
 This has currently been tested on Linux, but should work on any system with R installed.
 
 ```R
