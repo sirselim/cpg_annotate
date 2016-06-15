@@ -15,5 +15,6 @@ Rscript cpg_annotate.R reinius_beta_CD8T.txt
 
 ## To do
 
+  - ~~add hg38 position and SNP information to annotation file~~
   - add exit before further evaluation if no file is provided
   - further tidy up script
