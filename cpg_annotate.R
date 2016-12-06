@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 # Author:         Miles Benton
-# created:        03-06-210
-# last modified:  13-06-210
+# created:        03-06-2106
+# last modified:  07-12-2106
 # cpg_annotate.R -- cleans and formats CpG data for annotation and pathways
 
 # capture argument from bash/terminal
