@@ -1,5 +1,7 @@
 # cpg_annotate
-A small R script to provide quick annotation and gene lists for series of IlmnID's (450k probes)
+A small R script to provide quick annotation and gene lists for series of IlmnID's (450k probes). Currently working on a version to include support for 850k arrays. 
+
+**Note:** There is a hg38 updated slimmed down annotation file available for the 850k array (`IlluminaEPIC_annotation_hg38.RDS`).
 
 ## example usage
 
@@ -26,6 +28,8 @@ Added a selection of potential useful bed files that were generated during the d
 
 ## To do
 
+  - ~~add Illumina EPIC 850k annotation~~
+  - modify `cpg_annotate` to work for both 450k and 850k
   - ~~add hg38 position and SNP information to annotation file~~
   - ~~add UCSC hg38 referecnce gene symbols from custom bed~~
   - add exit before further evaluation if no file is provided
